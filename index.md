@@ -1,6 +1,6 @@
-# Gumballs & Dungeons Review #
-## Ferdiansyah ##
-## 3145141980 ##
+# Gumballs & Dungeons Review
+## Ferdiansyah
+## 3145141980
 
 # The largest heading
 ## The second largest heading
