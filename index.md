@@ -2,8 +2,7 @@
 ## Ferdiansyah
 ## 3145141980
 
-<img src="https://user-images.githubusercontent.com/30854454/30260585-7063c864-96f2-11e7-9bd5-d7d359ade281.jpg" style="display: block; margin: auto; width: 40%;" height="600" width="300" />
-<img src="gumball1.png" height="300" width="100%"/>
+<center><img src="https://user-images.githubusercontent.com/30854454/30260585-7063c864-96f2-11e7-9bd5-d7d359ade281.jpg" style="display:block; margin:auto; width:40%;" height="600" width="300" /></center>
 
 <p align="justify">Gumballs dan Dungeons salah satu permainan dengan karakter kartun berbentuk slime, karakter gumball yang imut dan elemen fantasi yang lebih realistis. Mungkin permainan ini, terlihat hanya seperti permainan yang menampilkan karakter-karakter lucu, tetapi tidak demikian. Gumballs & Dungeons memberikan begitu banyak hal yang bisa kita dapatkan seperti pada game RPG pada umumnya, namun dengan berbagai unsur yang menarik dan membuat pemainnya menjadi sangat adiktif.</p>
 
@@ -19,3 +18,4 @@
 
 <p align="justify">Gumballs & Dungeos juga dilengkapi dengan fitur idle, dimana pemain memungkinkan mendapatkan gold dan sumber daya selama pemain tersebut tidak sedang memainkan game. Dari sumber daya dan gold tersebut dapat dibuat sebuah potion atau peralatan yang bisa kita bawa ke dungeon untuk membantu meningkatkan gumball. </p>
 
+<img src="gumball1.png" height="300" width="100%"/>
