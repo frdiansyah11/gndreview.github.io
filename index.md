@@ -30,13 +30,13 @@
   
 <p align="justify">Desain dari Gumballs & Dungeons sangat menarik, tak hanya untuk kalangan anak muda tetapi untuk semua umur. Terutama untuk desain tiap-tap karakter gumball yang dibagi setiap golongan, yaitu Aoluwei’s Blade, Canas’ Enlightenment, Ranger’s Song, dan Abyss’ Roar. Di tiap golongan tersebut terdapat berbagai macam gumball yang berbeda yang mewakili tiap golongannya seperti pembagian class job di game RPG lainnya.</p>
 
-..* Aoluwei’s Blade
+•	Aoluwei’s Blade
 <p align="justify">Mewakili gumball yang suka berperang dan memiliki keterampilan seni bertarung yang tak tertandingi. Pada fraksi ini beberapa gumball mudah untuk didapatkan, karena saat kita memulai permainan, kita akan memulai dengan salah satu gumball dari fraksi ini yaitu Adventurer Gumball (protagonis).</p>
-..* Canas’ Enlightenment
+•	Canas’ Enlightenment
 <p align="justify">Pada fraksi ini terdapat beberapa gumball dengan kemampuan sihir atau biasa disebut penyihir. Fraksi ini tidak terlalu populer oleh para pemain, namun menurut pribadi saya fraksi ini sangat kuat jika dibandingkan dengan fraksi yang sebelumnya Aoluwei’s Blade jika kita terus mengupgrade fraksi ini ketingkat yang lebih tinggi.</p>
-..* Ranger’s Song
+•	Ranger’s Song
 <p align="justify">Fraksi yang mewakili para pahlawan ini memiliki jenis-jenis gumball yang terbilang unik dan sangat populer dikalangan para pemain. Karena dari fraksi ini kita bisa membuat combo yang sangat kuat untuk menaklukan dungeon ke lantai yang lebih dalam, dan untuk mendapatkan gumball di fraksi ini masih terbilang mudah setelah Aoluwei’s Blade.</p>
-..* Abyss’ Roar
+•	Abyss’ Roar
 <p align="justify">Sangat sulit untuk mendapatkan gumball-gumball di Abyss’ Roar, seperti kita harus mengikuti sebuah event, membayar dengan Gem, atau dengan donasi uang yang sangat banyak. Namun, fraksi ini adalah yang paling kuat diantara fraksi-fraksi yang lain.</p>
 
 <div align="center">
@@ -52,5 +52,18 @@
 </div>
 
 ## Conclusions
+<p align="justify">Gumballs dan Dungeons adalah mashup dari beberapa jenis permainan, semuanya bekerja sama untuk membentuk petualangan yang sangat menarik yang hampir tidak mungkin jika kita mainkan sesaat. Adapun beberapa ringkasan dari permainan ini, yaitu:</p>
+<p align="justify">• RPG: Menjelejahi dungeons, melawan musuh dan dapatkan EXP untuk menaikkan level part.</p>
+<p align="justify">• Strategi: Pilih karakter yang ingin menjelajahi dungeon yang berbeda jenisnya untuk dapat bertahan saat menjelejahi dungeon.</p>
+<p align="justify">• seperti Minesweeper: Flip tiles di dungeon untuk melihat musuh, mantra, item potion atau EXP saat kita menjelajahi lantai-lantai di dalam dungeon.</p>
+<p align="justify">• Roguelike: Gumballs and Dungeons memiliki sistem serangan dan pergerakkan berbasis giliran dan pada dasarnya adalah penjelajahan dungeon melalui banyak peta berbeda.</p>
+<p align="justify">• Multiplayer Online: Kita dapat menantang pemain di seluruh dunia dalam pertempuran, menggunakan tim kita untuk mengalahkan dalam tantangan dan memenangkan sumber daya yang dapat kita gunakan untuk meningkatkan kemampuan gumball kita.</p>
+
+<p align="justify">Salah satu bagian paling keren dari permainan ini adalah Gumballs dan Dungeons memungkinkan pemain menentukan kemampuan gumballs tertentu dan strategi yang harus diuji yang biasa dinikmati oleh para pecinta game RPG.</p>
+
+<div align="center">
+  <img src="" height="500" width="300" />
+  <p>Gumballs & Dungeons Trailers</p>
+</div>
 
 <img src="gumball1.png" height="300" width="100%"/>
