@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/30854454/30260585-7063c864-96f2-11e7-9bd5-d7d359ade281.jpg" height="500" width="300" />
-  ### Gumballs & Dungeons
+  <p>Gumballs & Dungeons</p>
 </div>
 
 <br/>
@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/30854454/30272525-19b40934-971f-11e7-88ce-24fcb4371f0e.png" height="500" width="300" />
-  ### GamePlay Gumballs & Dungeons
+  <p>GamePlay Gumballs & Dungeons</p>
   </div>
 
 <img src="gumball1.png" height="300" width="100%"/>
