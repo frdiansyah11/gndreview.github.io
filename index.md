@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 <body>
 # Gumballs & Dungeons Review #
 ## Ferdiansyah ##
