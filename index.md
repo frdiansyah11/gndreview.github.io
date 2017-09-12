@@ -65,6 +65,9 @@
 
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/30854454/30313745-9597a5ac-97c8-11e7-8875-cac1068477e9.PNG" height="300" width="100%"/>
+<p>Gumballs & Dungeons Ratings</p>
+<br/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8ZzXfRJ2BQg
 " target="_blank"><img src="http://img.youtube.com/vi/8ZzXfRJ2BQg/0.jpg" 
 alt="Gumballs & Dungeons Trailers" width="240" height="180" border="10" /></a>
