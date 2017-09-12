@@ -44,7 +44,7 @@
   <p>Gumballs & Dungeons Fractions</p>
 </div>
 
-<p align="justify">Tidak hanya dari segi karakter, dari kata Dungeons juga mewakili desain yang harus dilirik untuk dibahas. Terdapat banyak sekali dungeon yang ada di benua-benua yang di desain di peta game ini. Disetiap dungeon terdapat gumball yang bisa kita dapatkan dan ada juga event-event yang tersembunyi di dalam dungeon. Untuk menguasai satu dungeon tersebut kita harus menyelesaikan quest yang ada sampai dengan 80 point di tiap dungeon. Setelah kita menyelesaikan semua quest nya, kita dapat melakukan sistem raid untuk mendapatkan sumber daya untuk kita olah nantinya untuk meningkatkan gumball.</p>
+<p align="justify">Tidak hanya dari segi karakter, dari kata Dungeons juga mewakili desain yang harus dilirik untuk dibahas. Terdapat banyak sekali dungeon yang ada di benua-benua yang didesain di peta game ini. Disetiap dungeon terdapat gumball yang bisa kita dapatkan dan ada juga event-event yang tersembunyi di dalam dungeon. Untuk menguasai satu dungeon tersebut kita harus menyelesaikan quest yang ada sampai dengan 80 point di tiap dungeon. Setelah kita menyelesaikan semua quest nya, kita dapat melakukan sistem raid untuk mendapatkan sumber daya untuk kita olah nantinya untuk meningkatkan gumball.</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/30854454/30279238-dfbcea30-9736-11e7-8fd1-67a0340a9711.png" height="500" width="300" />
@@ -59,10 +59,13 @@
 <p align="justify">• Roguelike: Gumballs and Dungeons memiliki sistem serangan dan pergerakkan berbasis giliran dan pada dasarnya adalah penjelajahan dungeon melalui banyak peta berbeda.</p>
 <p align="justify">• Multiplayer Online: Kita dapat menantang pemain di seluruh dunia dalam pertempuran, menggunakan tim kita untuk mengalahkan dalam tantangan dan memenangkan sumber daya yang dapat kita gunakan untuk meningkatkan kemampuan gumball kita.</p>
 
-<p align="justify">Salah satu bagian paling keren dari permainan ini adalah Gumballs dan Dungeons memungkinkan pemain menentukan kemampuan gumballs tertentu dan strategi yang harus diuji yang biasa dinikmati oleh para pecinta game RPG.</p>
+<p align="justify">Salah satu bagian paling keren dari permainan ini adalah Gumballs dan Dungeons memungkinkan pemain menentukan kemampuan gumballs tertentu dan strategi yang harus diuji yang biasa dinikmati oleh para pecinta game RPG. Alesan saya menyukai game Gumballs & Dungeons, karena saya termasuk penyukai game berjenis RPG, dan pada saat itu diajak oleh teman untuk memainkan game ini lalu berlanjut hingga sekarang.</p>
+
+<p align="justify">Penasaran gamenya seperti apa? Yuk kita simak Trailer-nya, Enjoy It :)</p>
+
 
 <div align="center">
-  <img src="" height="500" width="300" />
+![Gumballs & Dungeons Trailer](https://img.youtube.com/vi/8ZzXfRJ2BQg/0.jpg)](https://www.youtube.com/watch?v=8ZzXfRJ2BQg)
   <p>Gumballs & Dungeons Trailers</p>
 </div>
 
