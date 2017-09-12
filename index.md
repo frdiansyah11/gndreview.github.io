@@ -61,11 +61,13 @@
 
 <p align="justify">Salah satu bagian paling keren dari permainan ini adalah Gumballs dan Dungeons memungkinkan pemain menentukan kemampuan gumballs tertentu dan strategi yang harus diuji yang biasa dinikmati oleh para pecinta game RPG. Alesan saya menyukai game Gumballs & Dungeons, karena saya termasuk penyukai game berjenis RPG, dan pada saat itu diajak oleh teman untuk memainkan game ini lalu berlanjut hingga sekarang.</p>
 
-<p align="justify">Penasaran gamenya seperti apa? Yuk kita simak Trailer-nya, Enjoy It :)</p>
+<p align="justify">Penasaran gamenya seperti apa? Yuk kita simak Trailer-nya, Have u Enjoy It :)</p>
 
 
 <div align="center">
-![Gumballs & Dungeons Trailer](https://img.youtube.com/vi/8ZzXfRJ2BQg/0.jpg)](https://www.youtube.com/watch?v=8ZzXfRJ2BQg)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8ZzXfRJ2BQg
+" target="_blank"><img src="http://img.youtube.com/vi/8ZzXfRJ2BQg/0.jpg" 
+alt="Gumballs & Dungeons Trailers" width="240" height="180" border="10" /></a>
   <p>Gumballs & Dungeons Trailers</p>
 </div>
 
