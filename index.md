@@ -71,4 +71,4 @@ alt="Gumballs & Dungeons Trailers" width="240" height="180" border="10" /></a>
   <p>Gumballs & Dungeons Trailers</p>
 </div>
 
-<img src="gumball1.png" height="300" width="100%"/>
+<img src="gumball1.png" height="350" width="100%"/>
